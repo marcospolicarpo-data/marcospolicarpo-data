@@ -17,6 +17,6 @@ Atualmente foco em resolver problemas complexos utilizando Python e SQL, com vis
 - **Infraestrutura Cloud (AWS):** Estudando como levar esses processos para a nuvem de forma escalável.
 
 ### 📫 Vamos nos conectar?
-[LinkedIn](www.linkedin.com/in/marcos-policarpo) | [E-mail](marcospolicarpo.28@gmail.com)
+[LinkedIn]www.linkedin.com/in/marcos-policarpo| [E-mail](marcospolicarpo.28@gmail.com)
 
 
