@@ -1,10 +1,19 @@
-Voce encontrou o perfil de um estudante da área de tecnologia e dados, seja bem vindo! 
-Meu nome é Marcos, tenho 24 anos, sou formando em Ciência da computação, completamente curioso no que envolve a tecnologia e apaixonado por futebol e basquete.
+- # Olá, eu sou o Marcos Policarpo 👋
 
-Esse perfil será focado em mostrar a minha forma de pensar na resolução de um problema, utilizando a lógica. Além disso também mostrarei:
+🎓 **Formando em Ciência da Computação** | 📊 **Analista de Dados**
 
-- Projetos utilizando SQL e Python;
-- Extração de valor dos dados para tomada de decisões;
-- Visualização dos dados com Power BI.
+Sou apaixonado por transformar dados brutos em insights estratégicos. Atualmente foco em resolver problemas complexos utilizando Python e SQL, com visualizações de alto impacto no Power BI.
+
+### 🛠 Ferramentas e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-CC0000?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PowerBi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 📈 O que estou estudando:
+- Machine Learning para análise preditiva.
+- Otimização de queries em grandes bancos de dados.
+
+### 📫 Vamos nos conectar?
+[LinkedIn](www.linkedin.com/in/marcos-policarpo) | [E-mail](marcospolicarpo.28@gmail.com)
 
 
