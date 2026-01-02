@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcos Policarpo 👋
 
-🎓 **Formando em Ciência da Computação** | 📊 **Analista de Dados**
+🎓 **Formando em Ciência de dados** | 📊 **Analista de Dados**
 
 Atualmente foco em resolver problemas complexos utilizando Python e SQL, com visualizações dos dados no Power BI.
 
