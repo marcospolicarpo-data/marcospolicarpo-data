@@ -1,4 +1,4 @@
-- # Olá, eu sou o Marcos Policarpo 👋
+# Olá, eu sou o Marcos Policarpo 👋
 
 🎓 **Formando em Ciência da Computação** | 📊 **Analista de Dados**
 
@@ -17,6 +17,6 @@ Atualmente foco em resolver problemas complexos utilizando Python e SQL, com vis
 - **Infraestrutura Cloud (AWS):** Estudando como levar esses processos para a nuvem de forma escalável.
 
 ### 📫 Vamos nos conectar?
-[LinkedIn]www.linkedin.com/in/marcos-policarpo| [E-mail](marcospolicarpo.28@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marcos-policarpo) | [E-mail](mailto:marcospolicarpo.28@gmail.com)
 
 
